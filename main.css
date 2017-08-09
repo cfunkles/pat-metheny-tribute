@@ -1,0 +1,20 @@
+body {
+  border-style: groove;
+  border-color: orange;
+  border-width: 20px;
+  text-align: center;
+  font-family: book antiqua;
+  background-color: #62636F;
+  color: #c1a1ff
+}
+
+h1 {
+  color: orange;
+  font-size: 60px;
+}
+
+.border {
+  border-width: 10px;
+  border-style: double;
+  border-color: #c1a1ff;
+}
